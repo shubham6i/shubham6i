@@ -21,10 +21,25 @@
 $ whoami
 Shubham S Vernekar
 
+$ status
+open to learning.
+open to building.
+open to opportunities.
+
 $ bio
 builds reliable software with curiosity and care.
-learns fast, adapts faster.
-turns problems into clean, working solutions.
+turns coffee into clean, readable code.
+asks "why?" before writing "how?".
+enjoys debugging almost as much as shipping.
+learns fast, adapts faster, improves constantly.
+turns messy problems into simple, working solutions.
+
+$ hobbies
+exploring design inspiration and clean ui patterns.
+tinkering with side projects for fun (and learning).
+reading about tech, startups, and system design.
+listening to music while refactoring code.
+occasionally touching grass to reboot the brain.
 
 $ username
 @shubham6i
@@ -36,8 +51,17 @@ $ role
 developer
 
 $ interests
-t frontend | creative interfaces | web apps | backend systems | logic & problem-solving
-
+frontend | creative interfaces | web apps | backend systems | logic & problem-solving
 
 $ philosophy
 clarity > complexity
+
+$ learning_mode
+always on.
+ships first, improves continuously.
+feedback welcomed, ego optional.
+
+$ exit
+thanks for reading.
+let’s build something cool.
+
