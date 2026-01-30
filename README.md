@@ -14,11 +14,11 @@
 
 ---
 
-## 🧪 TERMINAL
+## Welcome!!
 
 ```bash
 $ whoami
-shubham
+Shubham S Vernekar
 
 $ bio
 builds reliable software with curiosity and care.
@@ -26,7 +26,7 @@ learns fast, adapts faster.
 turns problems into clean, working solutions.
 
 $ username
-yourusername
+@shubham6i
 
 $ location
 india
@@ -35,7 +35,8 @@ $ role
 developer
 
 $ interests
-web | backend | systems | problem-solving
+t frontend | creative interfaces | web apps | backend systems | logic & problem-solving
+
 
 $ philosophy
 clarity > complexity
