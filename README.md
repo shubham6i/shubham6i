@@ -14,7 +14,8 @@
 
 ---
 
-## Welcome!!
+## Access confirmed.
+
 
 ```bash
 $ whoami
