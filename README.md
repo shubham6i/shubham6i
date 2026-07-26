@@ -1,67 +1,84 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=SHUBHAM;DEVELOPER;SYSTEM+THINKER"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SHUBHAM+S+VERNEKAR;PYTHON+%7C+SQL+%7C+POWER+BI;FRONTEND+DEVELOPER;CONTINUOUS+LEARNER"
     alt="Typing animation"
   />
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=600&color=00FF00&center=true&vCenter=true&width=700&lines=booting+profile...;loading+environment...;access+granted."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=600&color=00FF00&center=true&vCenter=true&width=800&lines=booting+developer+profile...;loading+skills...;python+%E2%9C%93+sql+%E2%9C%93+power+bi+%E2%9C%93+frontend+%E2%9C%93;access+granted."
     alt="Terminal animation"
   />
 </p>
 
 ---
 
-## Access confirmed.
-
+## 🟢 Access Confirmed
 
 ```bash
 $ whoami
 Shubham S Vernekar
 
+$ role
+Python Developer
+SQL Developer
+Power BI Developer
+Frontend Developer
+
 $ status
-open to learning.
-open to building.
-open to opportunities.
+Learning.
+Building.
+Growing.
 
-$ bio
-builds reliable software with curiosity and care.
-turns coffee into clean, readable code.
-asks "why?" before writing "how?".
-enjoys debugging almost as much as shipping.
-learns fast, adapts faster, improves constantly.
-turns messy problems into simple, working solutions.
+$ skills
+✓ Python
+✓ SQL
+✓ Power BI
+✓ HTML
+✓ CSS
+✓ JavaScript
+✓ React
 
-$ hobbies
-exploring design inspiration and clean ui patterns.
-tinkering with side projects for fun (and learning).
-reading about tech, startups, and system design.
-listening to music while refactoring code.
-occasionally touching grass to reboot the brain.
+$ currently_learning
+Cloud Computing ☁️
+Data Engineering Concepts
+Automation
+
+$ projects
+Interactive Power BI Dashboards
+Data Analysis Projects
+Frontend Web Applications
+Python Problem Solving
+SQL Query Optimization
+
+$ interests
+Data Analytics
+Dashboard Development
+Frontend Development
+Automation
+Problem Solving
+
+$ philosophy
+Write clean code.
+Learn continuously.
+Build practical solutions.
+
+$ fun_fact
+Turns raw data into meaningful insights.
+Enjoys solving coding challenges.
+Always exploring new technologies.
 
 $ username
 @shubham6i
 
 $ location
-india
+India
 
-$ role
-developer
-
-$ interests
-frontend | creative interfaces | web apps | backend systems | logic & problem-solving
-
-$ philosophy
-clarity > complexity
-
-$ learning_mode
-always on.
-ships first, improves continuously.
-feedback welcomed, ego optional.
+$ contact
+Open to internships, collaborations, and opportunities.
 
 $ exit
-thanks for reading.
-let’s build something cool.
-
+Thanks for visiting my profile!
+Let's build something amazing 🚀
+```
