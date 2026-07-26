@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SHUBHAM+S+VERNEKAR;PYTHON+%7C+SQL+%7C;FRONTEND+DEVELOPER;CONTINUOUS+LEARNER"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SHUBHAM+S+VERNEKAR;PYTHON+%7C+SQL+%7C+AI;FRONTEND+DEVELOPER;CONTINUOUS+LEARNER"
     alt="Typing animation"
   />
 </h1>
