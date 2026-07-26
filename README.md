@@ -1,20 +1,20 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00FF00&center=true&vCenter=true&width=800&lines=SHUBHAM+S+VERNEKAR;PYTHON+%7C+SQL+%7C+POWER+BI;FRONTEND+DEVELOPER;DATA+LOVER+%26+BUG+HUNTER"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SHUBHAM+S+VERNEKAR;PYTHON+%7C+SQL+%7C+POWER+BI;FRONTEND+DEVELOPER;CONTINUOUS+LEARNER"
+    alt="Typing animation"
   />
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=700&color=00FF00&center=true&vCenter=true&width=850&lines=Initializing+developer...;Loading+coffee...☕;Compiling+Python...;Running+SQL+queries...;Building+dashboards...;Rendering+React+components...;No+bugs+found...+probably."
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=600&color=00FF00&center=true&vCenter=true&width=800&lines=booting+developer+profile...;loading+skills...;python+%E2%9C%93+sql+%E2%9C%93+power+bi+%E2%9C%93+frontend+%E2%9C%93;access+granted."
+    alt="Terminal animation"
   />
 </p>
 
 ---
 
-## 🟢 Terminal Access Granted
+## 🟢 Access Confirmed
 
 ```bash
 $ whoami
@@ -22,82 +22,63 @@ Shubham S Vernekar
 
 $ role
 Python Developer
-SQL Enthusiast
-Power BI Dashboard Builder
+SQL Developer
+Power BI Developer
 Frontend Developer
 
-$ current_status
-Coding...
-██████████░░░░░░░ 67%
+$ status
+Learning.
+Building.
+Growing.
 
 $ skills
-🐍 Python          ██████████
-🗄 SQL             ██████████
-📊 Power BI        █████████░
-⚛ React           ████████░░
-🌐 HTML & CSS      ██████████
-✨ JavaScript      █████████░
+✓ Python
+✓ SQL
+✓ Power BI
+✓ HTML
+✓ CSS
+✓ JavaScript
+✓ React
 
 $ currently_learning
-☁ Cloud Computing
-⚙ Automation
-📦 Data Engineering
+Cloud Computing ☁️
+Data Engineering Concepts
+Automation
 
-$ mission
-Build useful things.
-Break fewer things.
-Fix the things I accidentally broke.
+$ projects
+Interactive Power BI Dashboards
+Data Analysis Projects
+Frontend Web Applications
+Python Problem Solving
+SQL Query Optimization
 
-$ hobbies
-- Turning coffee into code ☕
-- Making dashboards prettier than my room 📊
-- Googling errors like a professional 🔍
-- Convincing myself "it works on my machine" 🤷
-
-$ favorite_sql_query
-SELECT * FROM opportunities
-WHERE status = 'Open';
-
--- Result:
-Hopefully soon 🤞
-
-$ python_motto
-while True:
-    learn()
-    build()
-    improve()
-
-$ powerbi
-Turning Excel headaches into interactive dashboards.
-
-$ frontend
-If it isn't responsive...
-Did it even happen?
-
-$ debugging
-99% detective
-1% programmer
-
-$ fun_fact
-I spend 30 minutes writing code
-and 3 hours wondering why it doesn't work...
-until I find the missing semicolon.
-(Yes, JavaScript... I'm looking at you.)
+$ interests
+Data Analytics
+Dashboard Development
+Frontend Development
+Automation
+Problem Solving
 
 $ philosophy
-Keep it simple.
-Keep it readable.
-Keep shipping.
+Write clean code.
+Learn continuously.
+Build practical solutions.
+
+$ fun_fact
+Turns raw data into meaningful insights.
+Enjoys solving coding challenges.
+Always exploring new technologies.
+
+$ username
+@shubham6i
 
 $ location
-📍 India
+India
 
 $ contact
-Always open to internships,
-collaborations,
-and exciting opportunities.
+Open to internships, collaborations, and opportunities.
 
 $ exit
-Session terminated successfully.
-See you in the next commit. 🚀
+Thanks for visiting my profile!
+Let's build something amazing 🚀
 ```
